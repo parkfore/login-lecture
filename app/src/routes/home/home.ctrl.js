@@ -17,7 +17,6 @@ const process = {
         const response = user.login()
         return res.json(response);
     },
-       
 };
 
 module.exports = {
